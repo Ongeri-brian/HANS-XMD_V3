@@ -11,14 +11,14 @@
   "stack":"heroku-24",
   "env":{
       "SESSION_ID": {
-      "description": "Paste here session id that you have scanned",
+      "description": "HansTz&teEjEb7J#sB6H7C5HCvIUNvhPgXsJyZRS27F9Uv9xuqWS_MFRD2A",
       "required": true,
       "value": ""
     },
     "MODE": {
       "description": "Enter public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter true for autoview status. Or leave blank",
@@ -33,12 +33,12 @@
     "AUTO_TYPING": {
       "description": "Enter true for autotype. Or leave blank",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_RECORDING": {
       "description": "Enter true if you want bot to show recording audio. Or leave blank",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "ALWAYS_ONLINE": {
       "description": "Enter it true if you want bot to show always online. Or leave blank",
